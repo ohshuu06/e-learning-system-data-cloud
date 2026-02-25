@@ -1,7 +1,7 @@
 # E-Learning System – Data & Cloud Project
 
 ## Project Overview
-This project is an academic E-Learning system designed to support online learning with multiple user roles including learners, instructors, and employees.
+Academic project for designing and deploying an E-Learning system with multiple user roles.
 
 ## My Responsibilities
 - Analyzed user requirements and structured relational databases
@@ -11,14 +11,8 @@ This project is an academic E-Learning system designed to support online learnin
 
 ## Technologies Used
 - Database: SQL Server, AWS RDS (Aurora)
-- Cloud Platform: AWS EC2, Route 53
+- Cloud: AWS EC2, Route 53
 - Tools: SQL, Git, GitHub
 
-## System Architecture
-![AWS Architecture](deployment/aws-architecture.png)
-
-## Database Design
-![ERD](database/erd.png)
-
 ## Notes
-This repository focuses on system design, database structure, and cloud deployment for learning and demonstration purposes.
+This repository focuses on data modeling, system design, and cloud deployment.
